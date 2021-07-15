@@ -8,7 +8,8 @@ function Contact() {
       <div
         className="leftSide"
         style={{ backgroundImage: `url(${PizzaLeft})` }}
-      ></div>
+      >
+      </div>
       <div className="rightSide">
         <h1>Contact Us</h1>
         <form id="contact-form" method="POST">
@@ -26,6 +27,7 @@ function Contact() {
             required
           ></textarea>
         </form>
+        <button className="submit-button">Submit</button>
       </div>
     </div>
   );
