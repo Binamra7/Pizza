@@ -17,11 +17,15 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   place-items: center;
+  margin-bottom: 100px;
 }
 
 /* MENU ITEM STYLING */
 
 .menuItem {
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
   border-radius: 15px;
   width: 300px;
   height: 350px;

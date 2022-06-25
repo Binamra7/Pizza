@@ -5,8 +5,6 @@ import '../styles/menu.css'
 
 function menu() {
 
-
-
     return (
         <div className="menu">
             <h1 className="menuTitle">Our menu</h1>

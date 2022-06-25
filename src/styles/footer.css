@@ -6,14 +6,26 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding-top: 10px;
+  
+  padding:50px 0;
 }
+.socialMedia {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 
+}
 .socialMedia svg {
-  color: white;
+  color:rgb(221, 221, 221);
   margin: 20px;
   font-size: 70px;
   cursor: pointer;
+}
+svg:hover {
+  color: white;
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.1);
 }
 
 .footer p {
