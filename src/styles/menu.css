@@ -19,9 +19,7 @@
   place-items: center;
   margin-bottom: 100px;
 }
-
 /* MENU ITEM STYLING */
-
 .menuItem {
   display:flex;
   flex-direction: column;

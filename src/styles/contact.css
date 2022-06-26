@@ -82,7 +82,6 @@ form button {
   height: 1.5rem;
   width: 5rem;
   border-radius: 2rem;
-  /* border: none; */
   font-weight: bold;
   display: flex;
   align-items: right;
@@ -94,6 +93,3 @@ button {
   align-items: center;
   justify-content: center;
 }
-/* .submit-button:hover {
-  border: 1px solid gray;
-} */

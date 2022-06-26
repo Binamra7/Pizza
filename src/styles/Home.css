@@ -8,7 +8,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .headerContainer {
@@ -56,9 +55,6 @@
   .home {
     justify-content: center;
     align-items: center;
-  }
-  .headerContainer h1,
-  .headerContainer p {
   }
 
   .headerContainer {

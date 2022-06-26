@@ -3,7 +3,7 @@
     height: auto;
     display: flex;
     flex-direction:column; 
-    font-family: Ariel, Helvetica, sans-serrif;
+    font-family: 'Inter', sans-serif;
 }
 body {
     padding: 0;
